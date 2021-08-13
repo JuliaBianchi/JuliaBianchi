@@ -1,4 +1,4 @@
-### Olá! Eu sou a Júlia Bianchi 👋
+### Olá! Eu sou a Júlia  👋
 
 
 - 🔭 Atualmente estou fazendo faculdade de Ciências da Computação
