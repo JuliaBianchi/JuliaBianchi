@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou fazendo faculdade de Ciências da Computação
-- 🌱 Estudando Java | React | Node | 
+- 🌱 Estudando Flutter |
 
  <div>
   <a href="https://github.com/JuliaBianchi">
